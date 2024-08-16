@@ -1,20 +1,20 @@
-python
-autopep8 
-Flask 
-Flask-JWT-Extended 
-Flask-Login
-flask-marshmallow
-Flask-Migrate 
-Flask-SQLAlchemy
-numpy
-pandas
-psycopg2-binary
-pylint
-PyPDF2
-pytest
-redis
-requests
-SQLAlchemy
-twilio
+python                       # Lenguaje de programación
+autopep8                     # Herramienta para formateo automático de código Python
+Flask                        # Framework web para desarrollar aplicaciones en Python
+Flask-JWT-Extended           # Extensión de Flask para manejar JSON Web Tokens (JWT)
+Flask-Login                  # Extensión de Flask para manejo de autenticación de usuarios
+flask-marshmallow            # Extensión de Flask para serialización/deserialización con Marshmallow
+Flask-Migrate                # Extensión de Flask para manejar migraciones de bases de datos
+Flask-SQLAlchemy             # Extensión de Flask para integrarse con SQLAlchemy (ORM)
+numpy                        # Biblioteca para cálculos numéricos en Python
+pandas                       # Biblioteca para manipulación y análisis de datos
+psycopg2-binary              # Adaptador para conectar PostgreSQL con Python
+pylint                       # Herramienta para análisis de código estático en Python
+PyPDF2                       # Biblioteca para trabajar con archivos PDF
+pytest                       # Framework de pruebas para Python
+requests                     # Biblioteca para realizar solicitudes HTTP
+SQLAlchemy                   # ORM para bases de datos en Python
+twilio                       # Biblioteca para interactuar con la API de Twilio para mensajes y llamadas
+
 
 
